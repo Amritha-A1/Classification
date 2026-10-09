@@ -190,27 +190,8 @@ It also includes:
 - Confusion-matrix heatmaps for all models.
 - ROC curves for model comparison.
 - A bar chart comparing evaluation metrics.
-- Code to display the highes
-- lowest-ranked models based on the selected metric.
-
-The final model should be chosen based on the evaluation results and the
-purpose of the task, rather than accuracy alone.
-
-## Visualizations
 
 
-
-1.  **Class Distribution Plot** --- displays the number of samples in
-    each target class.
-2.  **Decision Tree Plot** --- visualizes the trained decision tree.
-3.  **Individual ROC Curves** --- show the ROC curve and AUC for each
-    model.
-4.  **Confusion Matrix Heatmaps** --- compare actual and predicted
-    classes for each model.
-5.  **ROC Curve Comparison** --- plots the ROC curves of multiple models
-    together.
-6.  **Model Performance Bar Chart** --- compares metrics such as
-    accuracy, precision, recall, F1-score, and ROC-AUC.
 
 
 
